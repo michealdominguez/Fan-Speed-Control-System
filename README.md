@@ -6,8 +6,10 @@ Brief Overview:
 Smart Ceiling Fan Control 
   - OFF/ON setting.
   - Fan speed based on switches.
+    
 Input Combination
-		-  different switch combination to use different fan mode
+  -  different switch combination to use different fan mode
+
 Components:
   - L298N Dual Bridge Motor Driver
   - 2-phase, 12V DC bipolar stepper motor (fan)
