@@ -17,4 +17,6 @@ Components:
   - Potentiometer (light switch)
   - 4-input DIP Switch Module
 
+Link to demo: https://youtu.be/CHEWgq_nAGw
+
 
